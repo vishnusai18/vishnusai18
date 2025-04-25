@@ -4,9 +4,9 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Human Being Building AI Bots that helps Humans :alien:
-- 💼 Machine Learning 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸, Agents, LLM's 𝚊𝚝 <img src="https://github.com/vishnusai18/vishnusai18/blob/7f0535be7ddd2d84c1254dbb52e09dc8e721ba06/maruti%20logo.png" height="30em" align="center" alt="MSIL" title="Maruti Suzuki India Limited"/>
-- 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
+- :school: Incoming Machine Learning Grad :round_pushpin: University Of MaryLand College Park, Class of 2027 :turtle:.
+- 💼 Machine Learning 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸, Agents, LLM's 𝚊𝚝 <img src="https://github.com/vishnusai18/vishnusai18/blob/7f0535be7ddd2d84c1254dbb52e09dc8e721ba06/maruti%20logo.png" height="30em" align="center" alt="MSIL" title="Maruti Suzuki India Limited"/>.
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 with Specialization in Data Science 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 VIT 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 - Vellore(India), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3.
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
