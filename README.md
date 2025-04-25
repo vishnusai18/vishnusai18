@@ -24,6 +24,11 @@
   - 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
   - Give Tech Talks in silicon Valley
   - Build AI for heathcare & make it more accessible to the world.
+ 
+ ## :globe_with_meridians: Skills
+ - :pushpin: Grinded
+ - 
+
 
 
 
