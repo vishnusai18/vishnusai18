@@ -4,12 +4,11 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Human Being Building AI Bots that helps Humans :alien:  
-- :school: Incoming Machine Learning Grad at <img src="https://github.com/vishnusai18/vishnusai18/blob/10e7413db19c305ec77df9085cb264dfe5abc691/umd.png" height="30em" align="center" alt="UMD" title="University of MaryLand, College Park"/>. Class of 2027 :turtle:.
-- :round_pushpin: College Park,United States 
+- :school: Incoming Machine Learning Grad at <img src="https://github.com/vishnusai18/vishnusai18/blob/10e7413db19c305ec77df9085cb264dfe5abc691/umd.png" height="30em" align="center" alt="UMD" title="University of MaryLand, College Park"/>, Class of 2027 :turtle:.
+- :round_pushpin: College Park, Maryland
+- :city_sunrise: Washington DC :police_car:, NewYork :statue_of_liberty:
 - 💼 Machine Learning 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸, Agents, LLM's 𝚊𝚝 <img src="https://github.com/vishnusai18/vishnusai18/blob/7f0535be7ddd2d84c1254dbb52e09dc8e721ba06/maruti%20logo.png" height="30em" align="center" alt="MSIL" title="Maruti Suzuki India Limited"/>.
-- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 with Specialization in Data Science 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 VIT 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 - Vellore(India), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3.
-- 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
-- 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 𝙰𝚛𝚌𝚑 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+- 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 with Specialization in Data Science 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 <img src="https://github.com/vishnusai18/vishnusai18/blob/60d16894d7832dd5edcf054c137f0be221aa1ac7/vitvellore.png" height="30em" align="center" alt="VIT Vellore" title="VIT University, Vellore"/>, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3. 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
