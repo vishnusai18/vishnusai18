@@ -14,8 +14,9 @@
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
 - Exploring & Building Applications based on LLM's, AI Agents & Generative-AI.
-- Working on PyTorch, Transformers.
+- Working on PyTorch, Transformers.🐍
 - Developing ML/DL Algorithms to solve Problems and improve the quality of life.
+- Learning Data Structures & Algorithms with Python & LeetCoding 👨‍💻
 ```
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 Start an AI Based Company to improve healthcare and also improve travel experience -->
