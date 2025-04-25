@@ -21,8 +21,8 @@
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘 Start an AI Based Company to improve healthcare and also improve travel experience -->
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
   - 𝙶𝚘 𝚜𝚔𝚢𝚍𝚒𝚟𝚒𝚗𝚐!
-  - Give Tech Talks in silicon Valley  
-  - Build AI for heathcare & make it more accessible to the world.
+  - Give Tech Talks in silicon Valley
+  - Build AI for heathcare & make it more accessible to the world.
 
 
 
