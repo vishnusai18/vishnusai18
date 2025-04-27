@@ -27,7 +27,8 @@
  
  ## :globe_with_meridians: Skills
  - :pushpin: Grinded
- - 
+     - ![Static Badge](https://img.shields.io/badge/python-yellow)
+
 
 
 
