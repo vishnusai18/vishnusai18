@@ -27,7 +27,23 @@
  
  ## :globe_with_meridians: Skills
  - :pushpin: Grinded
-     - ![Static Badge](https://img.shields.io/badge/python-yellow)
+     - ![Static Badge](https://img.shields.io/badge/python-white?style=flat-square&logo=python&logoColor=white&color=orange)
+     - ![Static Badge](https://img.shields.io/badge/c%2B%2B-white?style=flat-square&logo=c%2B%2B&logoColor=white&color=blue)
+     - ![Static Badge](https://img.shields.io/badge/streamlit-white?style=flat-square&logo=streamlit&logoColor=white&color=red)
+     - ![Static Badge](https://img.shields.io/badge/openai-white?style=flat-square&logo=openai&logoColor=black)
+     - ![Static Badge](https://img.shields.io/badge/pandas-white?style=flat-square&logo=pandas&logoColor=black)
+     - ![Static Badge](https://img.shields.io/badge/scikitlearn-white?style=flat-square&logo=scikit-learn&logoColor=black)
+     - ![Static Badge](https://img.shields.io/badge/plotly-white?style=flat-square&logo=plotly&logoColor=black)
+     - ![Static Badge](https://img.shields.io/badge/mysql-white?style=flat-square&logo=mysql&logoColor=black)
+ - 
+
+
+
+
+
+
+
+
 
 
 
