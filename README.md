@@ -35,7 +35,14 @@
      - ![Static Badge](https://img.shields.io/badge/scikitlearn-white?style=flat-square&logo=scikit-learn&logoColor=black)
      - ![Static Badge](https://img.shields.io/badge/plotly-white?style=flat-square&logo=plotly&logoColor=black)
      - ![Static Badge](https://img.shields.io/badge/mysql-white?style=flat-square&logo=mysql&logoColor=black)
- - 
+ - :notebook: Grinding
+     - ![Static Badge](https://img.shields.io/badge/amazonwebservices-white?style=flat-square&logo=amazonwebservices&logoColor=black)
+     - ![Static Badge](https://img.shields.io/badge/databricks-white?style=flat-square&logo=databricks&logoColor=black)
+     - ![Static Badge](https://img.shields.io/badge/fastapi-white?style=flat-square&logo=fastapi&logoColor=black)
+   
+
+
+
 
 
 
