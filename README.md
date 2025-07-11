@@ -7,7 +7,7 @@
 - :school: Incoming Machine Learning Grad at <img src="https://github.com/vishnusai18/vishnusai18/blob/10e7413db19c305ec77df9085cb264dfe5abc691/umd.png" height="40em" align="center" alt="UMD" title="University of MaryLand, College Park"/>, Class of 2027 :turtle:.
 - :round_pushpin: College Park, Maryland
 - :city_sunrise: Close by - Washington DC :police_car:, NewYork :statue_of_liberty:
-- 💼 Machine Learning 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸, Agents, LLM's 𝚊𝚝 <img src="https://github.com/vishnusai18/vishnusai18/blob/7f0535be7ddd2d84c1254dbb52e09dc8e721ba06/maruti%20logo.png" height="40em" align="center" alt="MSIL" title="Maruti Suzuki India Limited"/>.
+- 💼 Ex Machine Learning 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸, Agents, LLM's 𝚊𝚝 <img src="https://github.com/vishnusai18/vishnusai18/blob/7f0535be7ddd2d84c1254dbb52e09dc8e721ba06/maruti%20logo.png" height="40em" align="center" alt="MSIL" title="Maruti Suzuki India Limited"/>.
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 with Specialization in Data Science 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 <img src="https://github.com/vishnusai18/vishnusai18/blob/60d16894d7832dd5edcf054c137f0be221aa1ac7/vitvellore.png" height="40em" align="center" alt="VIT Vellore" title="VIT University, Vellore"/>, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸3. 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
